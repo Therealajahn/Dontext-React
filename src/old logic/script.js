@@ -76,7 +76,7 @@ controlVideo();
 
 
 function documentOperations(){
-const textPlate = document.getElementById('text-plate');
+    const textPlate = document.getElementById('text-plate');
 ////READ
     function userReadLocalFile(){
         const fileGetter = document.getElementById('file-reader') 
