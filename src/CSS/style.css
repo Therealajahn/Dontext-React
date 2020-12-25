@@ -3,7 +3,7 @@ body {
       grid-template-areas: 'one';
 }
 
-.editor {
+.main {
   display: grid;
   grid: 'one' 100vh / 100vw;
   justify-items: center;
